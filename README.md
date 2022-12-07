@@ -22,12 +22,19 @@ alt="Speech to Song" width="830" height="470" border="10" /></a>
     Video and Audio editing <br />
 
 ### Bomberman Remade
-One of my earliest games, made in a team of 5 students.
+One of my earliest games, made in a team of 5 students in our first year.
 We remade the original bomberman game from scratch.
-We included all the content from the original, such as the 50 levels and the 8 different types of enemies.
-Improvements all around such as extra animations, AI improvements, achievements, local multiplayer, and an infinite-level mode.
+We included all the content from the original, such as the 50 levels and the 8 different types of enemies and power-ups.
+Improvements all around such as extra animations, graphics, AI improvements, achievements, local multiplayer, and an infinite-level mode.
 ![bomberman-gameplay](https://user-images.githubusercontent.com/14907692/206293514-aa8ef4a6-18be-4049-a769-5ad4eaab45f3.gif)
 
+### Supa Jumpy Boi
+A small arena fighter where you try to jump on the other player's head.
 
+![mpc-be64_ZuB4PmasT5](https://user-images.githubusercontent.com/14907692/206295771-36a4ab56-7f72-4290-ba8a-d336769d41d1.png)
 
+### WIP A simple tool for helping people playing Geoguessr.
+Helps players learn by letting them select what they see in the world.
+
+![geoguessr helper](https://user-images.githubusercontent.com/14907692/206296251-3ce52197-e7c6-43d4-9c3c-04cde3601c55.png)
 
