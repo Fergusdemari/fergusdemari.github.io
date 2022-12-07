@@ -6,7 +6,7 @@ Test
   <img src="./readme-images/project-logo.png" />
 
   <h2 align="center">Jack - Personal portfolio</h2>
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tETx92ybGI0/0.jpg)](https://www.youtube.com/watch?v=tETx92ybGI0)
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 <iframe width="1907" height="837" src="https://www.youtube.com/embed/tETx92ybGI0" title="Never Gonna Give You Up by Barack Obama generated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
