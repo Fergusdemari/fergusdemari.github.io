@@ -18,7 +18,7 @@ My thesis was about making a pipeline that only needs the MP3 of a song to make 
 " target="_blank"><img src="./readme-images/speech-to-song-example.png" 
 alt="Speech to Song" width="830" height="470" border="10" /></a>
 
-Automated features included: <br />
+#Automated features included: <br />
     Speech Separation <br />
     Transcription of the lyrics <br />
     Forced alignment of the speech <br />
