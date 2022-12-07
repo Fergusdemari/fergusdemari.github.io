@@ -26,8 +26,7 @@ We remade the original bomberman game from scratch.
 We included all the content from the original, such as the 50 levels and the 8 different types of enemies.
 Improvements all around such as extra animations, AI improvements, achievements, local multiplayer, and an infinite-level mode.
 
-<img src="./readme-images/bomberman-gameplay.gif" 
-alt="Speech to Song" width="830" height="470" border="10" />
+![](bomberman-gameplay.gif)
 
 
 
