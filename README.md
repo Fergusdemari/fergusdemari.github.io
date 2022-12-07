@@ -26,8 +26,8 @@ One of my earliest games, made in a team of 5 students.
 We remade the original bomberman game from scratch.
 We included all the content from the original, such as the 50 levels and the 8 different types of enemies.
 Improvements all around such as extra animations, AI improvements, achievements, local multiplayer, and an infinite-level mode.
-![bomberman-intro](https://user-images.githubusercontent.com/14907692/206293407-b68c502a-ac14-4881-9d0b-f12271b27574.png)
-![](bomberman-gameplay.gif)
+![bomberman-gameplay](https://user-images.githubusercontent.com/14907692/206293514-aa8ef4a6-18be-4049-a769-5ad4eaab45f3.gif)
+
 
 
 
