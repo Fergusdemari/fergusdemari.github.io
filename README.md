@@ -9,10 +9,7 @@ Quick portfolio overview
 
 My thesis was about making a pipeline that only needs the MP3 of a song to make any speaker sing it, provided we have footage of the speaker. For a demo, click on the image below to play the video.
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fEvssG0WurQ
-" target="_blank"><img src="./readme-images/speech-to-song-example.png" 
-alt="Speech to Song" width="830" height="470" border="10" /></a>
+[rickastley.webm](https://user-images.githubusercontent.com/14907692/206299654-247bacc3-6acd-40ef-8d68-4fc93f7f6111.webm)
 
 <b>Automated features included:</b> <br />
     Speech Separation <br />
