@@ -31,10 +31,10 @@ A small multiplayer arena fighter where you try to jump on the other player's he
 ![mpc-be64_ZuB4PmasT5](https://user-images.githubusercontent.com/14907692/206295771-36a4ab56-7f72-4290-ba8a-d336769d41d1.png)
 <br /><br />
 ### WIP A simple tool for helping people playing Geoguessr.
-Helps players learn by letting them select what they see in the world.
+Helps players learn by letting them select what they see in the world. Currently focused on identifying languages based on user symbols
 
-![geoguessr helper](https://user-images.githubusercontent.com/14907692/206296251-3ce52197-e7c6-43d4-9c3c-04cde3601c55.png)
-<br /><br />
+[geoguessr-helper.webm](https://user-images.githubusercontent.com/14907692/206301263-f371a415-ebad-42d7-ba1e-1c27342dac25.webm)
+
 
 ### Basic Pathtracer from scratch
 ![pathtracer](https://user-images.githubusercontent.com/14907692/206297568-07046266-d8ed-4897-93bf-c05472f51590.png)
