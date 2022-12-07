@@ -9,7 +9,7 @@ Quick portfolio overview
 
 My thesis was about making a pipeline that only needs the MP3 of a song to make any speaker sing it, provided we have footage of the speaker. For a demo, click on the image below to play the video.
 
-[speech-to-song.webm](https://user-images.githubusercontent.com/14907692/206299654-247bacc3-6acd-40ef-8d68-4fc93f7f6111.webm)
+[speech-to-song.webm](https://user-images.githubusercontent.com/14907692/206299822-9a52b663-e434-41e2-9daa-06650186df05.webm)
 
 <b>Automated features included:</b> <br />
     Speech Separation <br />
@@ -40,5 +40,5 @@ Helps players learn by letting them select what they see in the world.
 ![pathtracer](https://user-images.githubusercontent.com/14907692/206297568-07046266-d8ed-4897-93bf-c05472f51590.png)
 
 ### Video creation using Motion Capture
+[motion-capture.webm](https://user-images.githubusercontent.com/14907692/206299912-5bda9a53-b918-4f5b-95d0-3ff6c2ab9795.webm)
 
-[Indiana jones.webm](https://user-images.githubusercontent.com/14907692/206299133-b9118d8e-d8e5-4a45-b5f0-475f61982971.webm)
