@@ -27,14 +27,17 @@ We remade the original bomberman game from scratch.
 We included all the content from the original, such as the 50 levels and the 8 different types of enemies and power-ups.
 Improvements all around such as extra animations, graphics, AI improvements, achievements, local multiplayer, and an infinite-level mode.
 ![bomberman-gameplay](https://user-images.githubusercontent.com/14907692/206293514-aa8ef4a6-18be-4049-a769-5ad4eaab45f3.gif)
-
+<br /><br />
 ### Supa Jumpy Boi
 A small arena fighter where you try to jump on the other player's head.
 
 ![mpc-be64_ZuB4PmasT5](https://user-images.githubusercontent.com/14907692/206295771-36a4ab56-7f72-4290-ba8a-d336769d41d1.png)
-
+<br /><br />
 ### WIP A simple tool for helping people playing Geoguessr.
 Helps players learn by letting them select what they see in the world.
 
 ![geoguessr helper](https://user-images.githubusercontent.com/14907692/206296251-3ce52197-e7c6-43d4-9c3c-04cde3601c55.png)
+<br /><br />
 
+### Basic Pathtracer from scratch
+![pathtracer](https://user-images.githubusercontent.com/14907692/206297568-07046266-d8ed-4897-93bf-c05472f51590.png)
