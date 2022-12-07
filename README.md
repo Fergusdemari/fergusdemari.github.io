@@ -9,6 +9,7 @@ Quick portfolio overview
 
 My thesis was about making a pipeline that only needs the MP3 of a song to make any speaker sing it, provided we have footage of the speaker. For a demo, click on the image below to play the video.
 
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fEvssG0WurQ
 " target="_blank"><img src="./readme-images/speech-to-song-example.png" 
 alt="Speech to Song" width="830" height="470" border="10" /></a>
@@ -25,7 +26,7 @@ One of my earliest games, made in a team of 5 students.
 We remade the original bomberman game from scratch.
 We included all the content from the original, such as the 50 levels and the 8 different types of enemies.
 Improvements all around such as extra animations, AI improvements, achievements, local multiplayer, and an infinite-level mode.
-<img src="./readme-images/bomberman-gameplay.gif">
+![bomberman-intro](https://user-images.githubusercontent.com/14907692/206293407-b68c502a-ac14-4881-9d0b-f12271b27574.png)
 ![](bomberman-gameplay.gif)
 
 
