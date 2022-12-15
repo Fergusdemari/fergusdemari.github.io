@@ -14,6 +14,7 @@ My thesis was about making a pipeline that only needs the MP3 of a song to make 
 <b>Automated features included:</b> <br />
     Speech Separation <br />
     Transcription of the lyrics <br />
+        Experience with API / Cloud interaction.
     Forced alignment of the speech <br />
     Replacing missing words with similar alternatives <br />
     Video and Audio editing <br />
